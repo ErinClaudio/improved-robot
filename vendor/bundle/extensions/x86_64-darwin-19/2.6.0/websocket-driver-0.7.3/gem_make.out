@@ -1,0 +1,15 @@
+current directory: /Users/erinclaudio/Desktop/RoR_projects/aplha-blog2/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/erinclaudio/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/erinclaudio/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200911-15501-1jar170.rb extconf.rb
+creating Makefile
+
+current directory: /Users/erinclaudio/Desktop/RoR_projects/aplha-blog2/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/erinclaudio/Desktop/RoR_projects/aplha-blog2/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/erinclaudio/Desktop/RoR_projects/aplha-blog2/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200911-15501-1w95vhs
